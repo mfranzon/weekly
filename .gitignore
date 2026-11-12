@@ -1,0 +1,17 @@
+# Generated weeklies: they hold real project and work details
+weekly-*.md
+
+# Local Claude Code state
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Secrets
+.env
+.env.*
+
+# OS / editor / Python noise
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
