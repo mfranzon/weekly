@@ -1,6 +1,6 @@
 # weekly
 
-A [Claude Code](https://claude.com/claude-code) skill that writes a summary of your work week (Monday to Friday) for one or more projects, as a Markdown file with Mermaid diagrams.
+A skill that writes a summary of your work week (Monday to Friday) for one or more projects, as a Markdown file with Mermaid diagrams.
 
 It reads two sources: your local Claude Code session transcripts and the git history of each project. From those it reports what landed, what is in progress, and what was only explored.
 
